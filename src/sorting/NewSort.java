@@ -1,3 +1,4 @@
+package sorting;
 import java.util.Arrays;
 public class NewSort {
 	static void bubbleSort(int arr[], int n) 
